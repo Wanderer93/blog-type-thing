@@ -16,7 +16,9 @@
     "url": "https://github.com/RuffleFish/blog-type-thing/issues"
   },
   "homepage": "https://github.com/RuffleFish/blog-type-thing#readme",
-  "dependencies": {},
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1"
   },
